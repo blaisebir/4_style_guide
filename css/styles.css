@@ -493,7 +493,7 @@ a {
 }
 
 .btn:hover {
-  background-color: #262626;
+  background-color: lighten 5%;
   transition: all 1s ease-out;
   transition-property: transform, background-color;
   transform: scale(1.3);

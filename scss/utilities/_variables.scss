@@ -1,11 +1,22 @@
+// Colors
+
 $base-color: #777;
 $border-color: #58e1c1;
 $bg-color: #51ddfc;
 $element-color: #fff;
+
+// Sizes
+
 $size-1: 10px;
 $size-2: 20px;
 $size-3: auto;
 $radius: 5px;
 $weight: 300;
+
+// Media Queries
+
 $breakpoint-box: 768px;
+
+// Transition
+
 $lighter: lighten(black,15%);

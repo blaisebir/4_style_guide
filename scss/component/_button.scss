@@ -11,7 +11,7 @@
     text-transform: uppercase;
     border-radius: $radius;
     &:hover {
-        background-color: $lighter;
+        background-color: lighten(15%);
         transition: all 1s ease-out;
         transition-property: transform, background-color;
         transform: scale(1.3);

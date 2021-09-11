@@ -21,5 +21,9 @@
   &-link:hover {
     color: $element-color;
     background-color: $border-color;
+    transition-property: transform, background-color;
+    transition: all 0.5s ease-out;
+    transform: scale(1.1);
+    cursor: pointer;
   }
 }
